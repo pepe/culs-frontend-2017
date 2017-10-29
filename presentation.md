@@ -1,6 +1,6 @@
 ---
 author: Pepe
-date: 2017-02-12
+date: 2017-10-30
 title: The Intro
 ---
 
@@ -65,7 +65,7 @@ title: The Intro
 
 ---
 author: Pepe
-date: 2017-02-12
+date: 2017-10-31
 title: Tools
 ---
 # Contemporary Frontend Development
@@ -149,7 +149,7 @@ title: Tools
 
 ---
 author: Pepe
-date: 2017-02-12
+date: 2017-11-01
 title: Content
 ---
 
@@ -218,7 +218,7 @@ title: Content
 
 ---
 
-# Story - communication
+## Story - communication
 
 * It's all about it
 * Best way
@@ -228,7 +228,7 @@ title: Content
 
 ---
 author: Pepe
-date: 2017-02-12
+date: 2017-11-02
 title: Presentation
 ---
 
@@ -284,7 +284,7 @@ title: Presentation
 
 ---
 author: Pepe
-date: 2017-02-12
+date: 2017-11-03
 title: Scripting
 ---
 
@@ -352,7 +352,7 @@ title: Scripting
 
 ---
 author: Pepe
-date: 2017-02-12
+date: 2017-11-04
 title: TGIF!
 ---
 
