@@ -256,6 +256,7 @@ title: Presentation
 ## What we see
 
 * Sizes
+* Positions
 * Visuals
 
 ---
@@ -264,6 +265,7 @@ title: Presentation
 
 * Beginning
 * Each tag had their set
+* Browser dependent
 
 ---
 
@@ -309,6 +311,7 @@ title: Presentation
 
 ## Story - communication
 
+* UX
 * Response times
 * Optimistic updates
 
@@ -321,6 +324,10 @@ title: Scripting
 ---
 
 # Contemporary Frontend Development
+
+---
+
+# Scripting
 
 ---
 
@@ -374,7 +381,7 @@ title: Scripting
 
 ---
 
-## Putting it all together
+## Story - all together
 
 * Static site generators
 * Jekyll
