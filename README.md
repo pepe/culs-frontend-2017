@@ -1,10 +1,10 @@
 # Contemporary Frontend Development
 ## CULS 2017 - study block
 
-Presentation and materials for the study block. Things will be appearing here as
+The presentation and materials for the study block. Things will be appearing here as
 the course will progress. 
 
-Link to [presentation](https://laststar.github.io/showrum/#/presentation/aHR0cHM6Ly9yYXdnaXQuY29tL3BlcGUvY3Vscy1mcm9udGVuZC0yMDE3L21hc3Rlci9wcmVzZW50YXRpb24ubWQ%3D/1/1 "Presentation").
+The link to the [presentation](https://laststar.github.io/showrum/#/presentation/aHR0cHM6Ly9yYXdnaXQuY29tL3BlcGUvY3Vscy1mcm9udGVuZC0yMDE3L21hc3Rlci9wcmVzZW50YXRpb24ubWQ%3D/1/1 "Presentation").
 
 ## Monday links:
 
