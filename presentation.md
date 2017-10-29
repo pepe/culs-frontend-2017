@@ -59,6 +59,14 @@ title: The Intro
 
 ---
 
+## Final Project
+
+* Pairs
+* Portfolio page
+* Static only
+
+---
+
 ## Let's Go!
 
 ===
@@ -68,20 +76,12 @@ author: Pepe
 date: 2017-10-31
 title: Tools
 ---
+
 # Contemporary Frontend Development
 
 ---
 
-# Monday - Tools
-
----
-
-## Agenda
-
-* GitHub
-* Editors
-* Chrome Devtools
-* JSBin
+# Tools
 
 ---
 
@@ -94,10 +94,19 @@ title: Tools
 
 ---
 
+## More GitHub
+
+* Issues, projects
+* Pull request
+* Static pages
+
+---
+
 ## GitHub task
 
-* register
-* follow @pepe and star
+* Register
+* Follow @pepe and star
+* Create project repository
 
 ---
 
@@ -107,7 +116,7 @@ title: Tools
 * OpenSource project
 * Many plug-ins
 
-–––
+---
 
 ## VSCode editor
 
@@ -123,7 +132,7 @@ title: Tools
 
 ---
 
-## Google Chrome
+## Chrome Developer tools
 
 * Standart
 * Many extensions
@@ -154,6 +163,10 @@ title: Content
 ---
 
 # Contemporary Frontend Development
+
+---
+
+# Content
 
 ---
 
@@ -236,6 +249,10 @@ title: Presentation
 
 ---
 
+# Presentation
+
+---
+
 ## What we see
 
 * Sizes
@@ -280,6 +297,21 @@ title: Presentation
 * Semantic
 * ZURB
 
+---
+
+## Material design
+
+* Google
+* Not finished
+* Movie time
+
+---
+
+## Story - communication
+
+* Response times
+* Optimistic updates
+
 ===
 
 ---
@@ -296,7 +328,7 @@ title: Scripting
 
 * History
 * Proper name
-* (Not only) Frontend programming language
+* The Browser Language
 
 ---
 
@@ -342,11 +374,11 @@ title: Scripting
 
 ---
 
-## Material design
+## Putting it all together
 
-* Google
-* Not finished
-* Movie time
+* Static site generators
+* Jekyll
+* Middleman
 
 ===
 
