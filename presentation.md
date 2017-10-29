@@ -97,7 +97,7 @@ title: Tools
 ## More GitHub
 
 * Issues, projects
-* Pull request
+* Pull requests
 * Static pages
 
 ---
@@ -114,14 +114,14 @@ title: Tools
 
 * GitHub
 * OpenSource project
-* Many plug-ins
+* Many packages
 
 ---
 
-## VSCode editor
+## Visual Studio Code
 
 * Microsoft take 
-* Very simillar to Atom
+* Very similar to Atom
 
 ---
 
@@ -413,8 +413,7 @@ title: TGIF!
 
 ## More pepe to your
 
-* @damnpepe Twitter/Mixcloud
-* @pepe GitHub
+* @damnpepe Twitter/Mixcloud/Refind
 * +4207742778707 WhatsApp, iMessages
 
 ---
