@@ -134,7 +134,7 @@ title: Tools
 
 ## Chrome Developer tools
 
-* Standart
+* Standard
 * Many extensions
 * Task install Canary
 
@@ -166,7 +166,39 @@ title: Content
 
 ---
 
-# Content
+# Followup
+
+---
+
+## Final Project
+
+* Welcome page
+* Personal page for participants
+* Contact page
+
+---
+
+## Distribution of points
+
+* Attendance 30%
+* Project 50%
+* Test 20%
+
+---
+
+## More Git(Hub)
+
+* Branches
+* Pull requests
+* Participants
+
+---
+
+# HTTP statuses
+
+---
+
+# Finally Content
 
 ---
 
