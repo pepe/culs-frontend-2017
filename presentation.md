@@ -188,9 +188,10 @@ title: Content
 
 ## More Git(Hub)
 
+* Commit vs Push
 * Branches
-* Pull requests
-* Participants
+* Pull requests vs Participants
+
 
 ---
 
@@ -268,6 +269,12 @@ title: Content
 * It's all about it
 * Best way
 * Cambrian explosion
+
+---
+
+## One more thing
+
+Graphcool
 
 ===
 
