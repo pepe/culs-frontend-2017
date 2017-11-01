@@ -340,6 +340,13 @@ title: Presentation
 
 ---
 
+## Responsive design
+
+* Many sizes
+* Mobile first
+
+---
+
 ## Material design
 
 * Google

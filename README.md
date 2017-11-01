@@ -41,9 +41,22 @@ The link to the [presentation](https://laststar.github.io/showrum/#/presentation
 ## Tuesday links
 
 - [HTML](https://www.w3.org/TR/html5/)
+- [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
 - [XML](https://en.wikipedia.org/wiki/Extensible_Markup_Language)
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model)
 - [JSON](https://en.wikipedia.org/wiki/JSON)
 - [Markdown](https://daringfireball.net/projects/markdown/syntax)
 - [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
 - [Graphcool](https://blog.graph.cool/introducing-the-graphcool-framework-d9edab2a7816?__s=emngcpcm7vkmgiokuiyk)
+
+## Wednesday links
+
+- [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [W3C CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+- [SASS](http://sass-lang.com)
+- [Less](http://lesscss.org)
+- [Bootstrap](http://getbootstrap.com)
+- [Semantic](https://semantic-ui.com)
+- [ZURB](https://foundation.zurb.com)
+- [Responsive design](https://en.wikipedia.org/wiki/Responsive_web_design)
+- [Material Design](https://material.io)
