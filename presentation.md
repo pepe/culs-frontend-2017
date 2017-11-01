@@ -385,6 +385,22 @@ title: Scripting
 
 ---
 
+## Frameworks
+
+* Whole universe
+* Almost everything
+* Usecase
+
+---
+
+## Popular FW
+
+* jQuery
+* React.js
+* Angular.js
+* Ember.js
+---
+
 ## Transpilers
 
 * Always JS on the end
@@ -400,22 +416,6 @@ title: Scripting
 * Elm
 * ClojureScript ♥
 
----
-
-## Frameworks
-
-* Whole universe
-* Almost everything
-* Usecase
-
----
-
-## Popular FW
-
-* jQuery
-* React.js
-* Angular.js
-* Ember.js
 
 ---
 
@@ -431,7 +431,13 @@ title: Scripting
 
 * Static site generators
 * Jekyll
-* Middleman
+* DNS
+
+---
+
+## One more thing
+
+* Frontend checklist
 
 ===
 

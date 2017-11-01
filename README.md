@@ -6,6 +6,8 @@ the course will progress.
 
 The link to the [presentation](https://laststar.github.io/showrum/#/presentation/aHR0cHM6Ly9yYXdnaXQuY29tL3BlcGUvY3Vscy1mcm9udGVuZC0yMDE3L21hc3Rlci9wcmVzZW50YXRpb24ubWQ%3D/1/1 "Presentation").
 
+[Example project](https://github.com/pepe/final-project-frontend-2017)
+
 ## Monday links:
 
 ### GitHub
@@ -60,3 +62,19 @@ The link to the [presentation](https://laststar.github.io/showrum/#/presentation
 - [ZURB](https://foundation.zurb.com)
 - [Responsive design](https://en.wikipedia.org/wiki/Responsive_web_design)
 - [Material Design](https://material.io)
+
+## Thursday links
+
+- [JavaScript](https://www.w3.org/standards/webdesign/script)
+- [jQuery](http://jquery.com)
+- [React.js](https://reactjs.org)
+- [Angular.js](https://angular.io)
+- [Ember.js](https://emberjs.com)
+- [CoffeScript](http://coffeescript.org)
+- [TypeScript](http://www.typescriptlang.org)
+- [Elm](http://elm-lang.org)
+- [ClojureScript](https://clojurescript.org)
+- [Node.js](https://nodejs.org)
+- [NPM](https://www.npmjs.com)
+- [Jekyll](https://jekyllrb.com)
+- [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
