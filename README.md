@@ -10,32 +10,15 @@ The link to the [presentation](https://laststar.github.io/showrum/#/presentation
 
 ## Monday links:
 
-### GitHub
-
 - [Git](https://git-scm.com)
 - [Git Magic](https://crypto.stanford.edu/~blynn/gitmagic/index.html)
 - [GitHub](https://github.com)
 - [GitHub Desktop](https://desktop.github.com/)
-
-### Atom
-
 - [Get Atom](https://atom.io/)
 - [Atom Packages](https://atom.io/packages)
-
-### Visual Studio Code
-
 - [Get Visual Studio Code](https://code.visualstudio.com)
-
-### Google Chrome Canary
-
 - [Get Google Chrome Canary](https://www.google.com/chrome/browser/canary.html)
-
-### JS Bin
-
 - [Web site](http://jsbin.com)
-
-### Story
-
 - [Microservices](https://en.wikipedia.org/wiki/Microservices)
 - [Containers](https://en.wikipedia.org/wiki/Operating-system-level_virtualization)
 - [Serverless](https://en.wikipedia.org/wiki/Serverless_computing)
