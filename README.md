@@ -8,6 +8,8 @@ The link to the [presentation](https://laststar.github.io/showrum/#/presentation
 
 [Example project](https://github.com/pepe/final-project-frontend-2017)
 
+[Test Link](https://www.surveymonkey.com/r/H2KCTVJ)
+
 ## Monday links:
 
 - [Git](https://git-scm.com)
